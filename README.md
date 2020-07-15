@@ -9,3 +9,6 @@ Install speech recognisition
   pip3 install SpeechRecognisition
 Install pyaudio
    pip install pyAudio
+Run the program
+  python filepath voice_to_text_ex.py 
+Say bye to abort the program.
