@@ -1,5 +1,5 @@
-# Voice-to-Text
-Simple program to convert voice to text
+# VOICE-TO-TEXT 
+" Simple Program To Convert Voice To Text "
 
 Install homebrew 
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
